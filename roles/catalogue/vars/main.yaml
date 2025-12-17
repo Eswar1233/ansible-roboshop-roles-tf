@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.squareladdu.in
+MONGODB_HOST: "mongodb-{{ env }}.squareladdu.in"
