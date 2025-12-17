@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.squareladdu.in
+CART_HOST: cart.squareladdu.in
+PAYMENT_HOST: payment.squareladdu.in
+USER_HOST: user.squareladdu.in
+SHIPPING_HOST: shipping.squareladdu.in

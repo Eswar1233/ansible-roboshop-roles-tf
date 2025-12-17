@@ -1,0 +1,5 @@
+CART_HOST: cart.squareladdu.in
+USER_HOST: user.squareladdu.in
+RABBITMQ_HOST: rabbitmq.squareladdu.in
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
